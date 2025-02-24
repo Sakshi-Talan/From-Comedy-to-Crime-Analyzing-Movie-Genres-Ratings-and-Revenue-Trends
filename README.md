@@ -1,2 +1,2 @@
-# PROJECT_1
-YFDXCGVHBJNKL,
+# From Comedy to Crime: Analyzing Movie Genres, Ratings, and Revenue Trends
+This project looks at popular movie genres, how people rate movies, and what different age groups and genders prefer. It also explores how movie budgets affect revenue and finds patterns in user ratings. Based on these insights, we can suggest movies that match users' favorite genres, helping them find films they’ll enjoy.
